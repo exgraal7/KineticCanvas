@@ -1,2 +1,0 @@
-# KineticCanvas
-Kinetic Canvas
